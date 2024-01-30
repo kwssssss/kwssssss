@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=Hello%20capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=WooSung's%20GitHub&fontSize=90&descAlign=20&descAlignY=40)
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=kwssssss)](https://github.com/kwssssss)
