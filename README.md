@@ -15,7 +15,7 @@
 
 교육 일정 : 2023.07 ~ 2023. 12
 
-교육 내용 : Spring, java
+교육 내용 : java
 
 &ensp;
 
@@ -23,7 +23,7 @@
 
 누리끼리(Nurikiri) - 온누리상품권 가맹점 정보 제공 사이트
 
-깃허브 링크 : https://github.com/SixFiveThirty/Nurikiri
+깃허브 링크 : [누리끼리](https://github.com/SixFiveThirty/Nurikiri)
 
 개발 일정 : 2023. 11 ~ 2023. 12
 
