@@ -1,6 +1,6 @@
 안녕하세요! :hand:
 
-백엔드 개발자 지망생 강우성입니다.
+예비 백엔드 개발자 강우성입니다.
 
 <a href="mailto:znlv0420@gmail.com">
     <img
